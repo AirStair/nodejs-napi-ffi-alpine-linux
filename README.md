@@ -11,6 +11,10 @@ https://wiki.alpinelinux.org/wiki/Bluetooth
 
 `# setup-devd udev`
 
+maybe
+
+`# apk add musl-dev make cmake`
+
 and
 
 `# apk add bluez`
