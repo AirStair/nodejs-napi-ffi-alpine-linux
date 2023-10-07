@@ -51,4 +51,4 @@ For a smaller install you may install just gcc but will also need at least musl-
 
 ## Nodejs
 
-`> npm i ffi-napi`
+`# npm i ffi-napi`
