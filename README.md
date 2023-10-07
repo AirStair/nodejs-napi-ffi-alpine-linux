@@ -50,3 +50,5 @@ https://wiki.alpinelinux.org/wiki/GCC
 For a smaller install you may install just gcc but will also need at least musl-dev or libc-dev.
 
 ## Nodejs
+
+`> npm i ffi-napi`
